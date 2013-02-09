@@ -6,10 +6,10 @@
 <head>
   <meta charset="utf-8">
   <title>PaloBots</title>
-  <meta name="author" content="Your Name">
+  <meta name="author" content="The PaloBots">
 
   
-  <meta name="description" content=" Blog Archives Recent Posts ">
+  <meta name="description" content="Blog Archives Included file &#8216;asides/custom/about.html&#8217; not found in _includes directory Recent Posts GitHub Repos Status updating&#8230 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -73,11 +73,40 @@
 </div>
 <aside class="sidebar">
   
-    <section>
+    Included file &#8216;asides/custom/about.html&#8217; not found in _includes directory<section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
   </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/palobots">@palobots</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'palobots',
+            count: 6,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
@@ -91,7 +120,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Your Name -
+  Copyright &copy; 2013 - The PaloBots -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
