@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://palobots.github.com/sitemap.xml 
+Sitemap: http://palobots.org/sitemap.xml 
