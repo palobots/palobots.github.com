@@ -1,12 +1,13 @@
 body > nav {
   position: relative;
   background-color: $nav-bg;
-  @include background($nav-bg-front, $nav-bg-back);
-  border: {
-    top: 1px solid $nav-border-top;
-    bottom: 1px solid $nav-border-bottom; }
   padding-top: .35em;
   padding-bottom: .35em;
+
+  img {
+    height: 0.8em;
+  }
+
   form {
     @include background-clip(padding-box);
     margin: 0; padding: 0;
@@ -16,11 +17,10 @@ body > nav {
       font-family: $sans;
       line-height: 1.1em;
       width: 95%;
-      @include border-radius(.5em);
       @include background-clip(padding-box);
       @include box-shadow(lighten($nav-bg, 2) 0 1px);
       background-color: lighten($nav-bg, 15);
-      border: 1px solid $nav-border;
+      border: 1px solid $nav-bg;
       color: #888;
       &:focus {
         color: #444;
@@ -63,11 +63,9 @@ body > nav {
       line-height: 1.5em;
     }
     li + li {
-      border-left: 1px solid $nav-border-left;
       margin-left: .8em;
       a {
         padding-left: .8em;
-        border-left: 1px solid $nav-border-right;
       }
     }
     form {
@@ -106,7 +104,6 @@ body > nav {
 @mixin mask-subscription-nav($feed: 'rss.png'){
   position: relative; top: 0px;
   text-indent: -999999em;
-  background-color: $nav-border-right;
   border: 0;
   padding: 0;
   &,&:after { @include mask-image($feed); }
@@ -133,5 +130,36 @@ body > nav {
   ul.subscription { position: relative; top: .2em; li, a { border: 0; padding: 0; }}
   a[rel=subscribe-rss]{ @include mask-subscription-nav('rss.png'); }
   a[rel=subscribe-email]{ @include mask-subscription-nav('email.png'); }
+}
+
+a.button {
+  background-color: rgb(200,113,0); // Old browsers
+  @include filter-gradient(#c87100, #915511, vertical); // IE6-9
+  @include background-image(linear-gradient(top,  rgba(200,113,0,1) 0%,rgba(145,85,17,1) 100%));
+  color: #fff;
+  border: 1px solid #401406;
+  border-radius: 5px;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.ctas {
+  list-style-type: none;
+  $cta-color: #67BD45;
+  background-color: $cta-color;
+  overflow: auto;
+  margin: 0px;
+  padding-left: 6%;
+
+  li {
+    float: left;
+
+    a{
+      text-decoration: none;
+      float: left;
+      padding: 5px 30px 5px 0px;
+      color: lighten($cta-color, 50);
+    }
+  }
 }
 
