@@ -1,20 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://palobots.org/blog/2010/03/04/hello-world/</loc>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://palobots.org/blog/2010/03/05/fll-coaching-learning-resources/</loc>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://palobots.org/blog/2010/03/05/norcal-league-results/</loc>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://palobots.org/blog/2010/04/02/patrol-llama/</loc>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://palobots.org/blog/2010/07/26/received-new-fll-fieldset-for-body-forward/</loc>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
+    </url>
+    <url>
         <loc>http://palobots.org/blog/2013/02/09/peninsula-regional-2012-season/</loc>
         <lastmod>2013-02-09T17:04:22-08:00</lastmod>
     </url>
     <url>
         <loc>http://palobots.org/blog/archives/</loc>
-        <lastmod>2013-02-09T17:04:22-08:00</lastmod>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
     </url>
     <url>
         <loc>http://palobots.org/blog/</loc>
-        <lastmod>2013-02-09T17:42:16-08:00</lastmod>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
     </url>
     <url>
         <loc>http://palobots.org/</loc>
-        <lastmod>2013-02-09T17:04:22-08:00</lastmod>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
     </url>
     <url>
         <loc>http://palobots.org/</loc>
@@ -26,6 +46,6 @@
     </url>
     <url>
         <loc>http://palobots.org/sponsors/</loc>
-        <lastmod>2013-02-09T17:04:22-08:00</lastmod>
+        <lastmod>2013-02-09T20:46:14-08:00</lastmod>
     </url>
 </urlset>

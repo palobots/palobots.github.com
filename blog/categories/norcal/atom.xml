@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: FLL | PaloBots]]></title>
-  <link href="http://palobots.org/blog/categories/fll/atom.xml" rel="self"/>
+  <title><![CDATA[Category: NorCal | PaloBots]]></title>
+  <link href="http://palobots.org/blog/categories/norcal/atom.xml" rel="self"/>
   <link href="http://palobots.org/"/>
   <updated>2013-02-09T20:47:13-08:00</updated>
   <id>http://palobots.org/</id>
@@ -12,20 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Peninsula Regional (2012)]]></title>
-    <link href="http://palobots.org/blog/2013/02/09/peninsula-regional-2012-season/"/>
-    <updated>2013-02-09T18:00:00-08:00</updated>
-    <id>http://palobots.org/blog/2013/02/09/peninsula-regional-2012-season</id>
-    <content type="html"><![CDATA[<p>The Octobots (Team #8) competed in the 2012 NorCalFLL Peninsula Regional championships.</p>
-
-<!-- more -->
-
-
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[NorCal League Results]]></title>
@@ -919,49 +905,6 @@ Sue Cortopassi - Redwood City Elementary School District</p>
 <p>95</p>
 
 <p>95</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[FLL Coaching / Learning Resources]]></title>
-    <link href="http://palobots.org/blog/2010/03/05/fll-coaching-learning-resources/"/>
-    <updated>2010-03-05T06:51:16-08:00</updated>
-    <id>http://palobots.org/blog/2010/03/05/fll-coaching-learning-resources</id>
-    <content type="html"><![CDATA[<h2>Books</h2>
-
-<ul>
-<li><p>First LEGO League  -- <a href="http://www.amazon.com/First-LEGO-League-Unofficial-Guide/dp/1593271859/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1267835758&amp;sr=1-1">http://www.amazon.com/First-LEGO-League-Unofficial-Guide/dp/1593271859/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1267835758&amp;sr=1-1</a></p></li>
-<li><p>Inventors Guide -- <a href="http://www.amazon.com/Unofficial-LEGO-MINDSTORMS-Inventors-Guide/dp/1593271549/ref=pd_bxgy_b_text_b">http://www.amazon.com/Unofficial-LEGO-MINDSTORMS-Inventors-Guide/dp/1593271549/ref=pd_bxgy_b_text_b</a></p></li>
-</ul>
-
-
-<h2>Online Educational Resources</h2>
-
-<ul>
-<li><p>http://www.norcalfll.org/index.php?option=com_weblinks&amp;view=category&amp;id=55%3Afll-training--curriculum&amp;Itemid=57</p></li>
-<li><p>http://webclass.superquest.net/sboost/tutorials/NXT_Tutorial/index.html</p></li>
-<li><p>http://www.hightechkids.org/coach-library</p></li>
-<li><p>http://www.norcalfll.org/</p></li>
-<li><p>http://groups.google.com/group/norcalfll-announce</p></li>
-<li><p>http://norcalfll.ning.com/</p></li>
-</ul>
-
-
-<p>Other resources:</p>
-
-<ul>
-<li>http://www.norcalfll.org/index.php?option=com_content&amp;view=article&amp;id=159:2009-norcal-fll-championship-results&amp;catid=48:2009-smart-move</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This is a new blog about FLL (First Lego League) and Robotics]]></title>
-    <link href="http://palobots.org/blog/2010/03/04/hello-world/"/>
-    <updated>2010-03-04T13:44:37-08:00</updated>
-    <id>http://palobots.org/blog/2010/03/04/hello-world</id>
-    <content type="html"><![CDATA[<p>This is a new blog about FLL (First Lego League) and Robotics.  My family and I have been watching Mindstorms and the FLL tournaments for a while now, but this year we are making-the-plunge into preparing to compete... or at least understand everything that entails.</p>
 ]]></content>
   </entry>
   
