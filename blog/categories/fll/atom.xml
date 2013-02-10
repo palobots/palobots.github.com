@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[PaloBots]]></title>
-  <link href="http://palobots.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: FLL | PaloBots]]></title>
+  <link href="http://palobots.org/blog/categories/fll/atom.xml" rel="self"/>
   <link href="http://palobots.org/"/>
   <updated>2013-02-09T17:04:29-08:00</updated>
   <id>http://palobots.org/</id>
