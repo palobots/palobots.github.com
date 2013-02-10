@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: FLL | PaloBots]]></title>
-  <link href="http://palobots.org/blog/categories/fll/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Team | PaloBots]]></title>
+  <link href="http://palobots.org/blog/categories/team/atom.xml" rel="self"/>
   <link href="http://palobots.org/"/>
   <updated>2013-02-09T22:58:06-08:00</updated>
   <id>http://palobots.org/</id>
@@ -12,35 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[2013 PaloBots Club Season]]></title>
-    <link href="http://palobots.org/blog/2013/03/01/2013-club-season/"/>
-    <updated>2013-03-01T18:00:00-08:00</updated>
-    <id>http://palobots.org/blog/2013/03/01/2013-club-season</id>
-    <content type="html"><![CDATA[<p>The 2013 club season of the PaloBots will be starting in March.  Please contact Mark or Rebecca for
-more information.</p>
-
-<!-- more -->
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Peninsula Regional (2012)]]></title>
-    <link href="http://palobots.org/blog/2013/02/09/peninsula-regional-2012-season/"/>
-    <updated>2013-02-09T18:00:00-08:00</updated>
-    <id>http://palobots.org/blog/2013/02/09/peninsula-regional-2012-season</id>
-    <content type="html"><![CDATA[<p>The Octobots (Team #8) competed in the 2012 NorCalFLL Peninsula Regional championships.</p>
-
-<!-- more -->
-
-
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[2012 PaloBots Team Season]]></title>
@@ -70,16 +41,6 @@ meetings will be focused on the 'Food Factor' challenge.  We have two teams comp
 <li> Team #78: The Swinebots</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2011 PaloBots Club Season]]></title>
-    <link href="http://palobots.org/blog/2011/03/01/2011-club-season/"/>
-    <updated>2011-03-01T18:00:00-08:00</updated>
-    <id>http://palobots.org/blog/2011/03/01/2011-club-season</id>
-    <content type="html"><![CDATA[<p>The 2011 club season of the PaloBots will be starting in March.  Please contact Mark or Rebecca for
-more information.</p>
 ]]></content>
   </entry>
   

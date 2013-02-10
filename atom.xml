@@ -4,7 +4,7 @@
   <title><![CDATA[PaloBots]]></title>
   <link href="http://palobots.org/atom.xml" rel="self"/>
   <link href="http://palobots.org/"/>
-  <updated>2013-02-09T22:31:56-08:00</updated>
+  <updated>2013-02-09T22:58:06-08:00</updated>
   <id>http://palobots.org/</id>
   <author>
     <name><![CDATA[The PaloBots]]></name>
@@ -38,6 +38,37 @@ more information.</p>
 <!-- more -->
 
 
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2012 PaloBots Team Season]]></title>
+    <link href="http://palobots.org/blog/2012/07/01/2012-team-season/"/>
+    <updated>2012-07-01T18:00:00-07:00</updated>
+    <id>http://palobots.org/blog/2012/07/01/2012-team-season</id>
+    <content type="html"><![CDATA[<p>The 2012 team season of the PaloBots is starting now (July).  The
+meetings will be focused on the &#8216;Senior Solutions&#8217; challenge.  So far we have one team competing this season:</p>
+
+<ul>
+<li> Team #8: The OctoBots</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011 PaloBots Team Season]]></title>
+    <link href="http://palobots.org/blog/2011/07/01/2011-team-season/"/>
+    <updated>2011-07-01T18:00:00-07:00</updated>
+    <id>http://palobots.org/blog/2011/07/01/2011-team-season</id>
+    <content type="html"><![CDATA[<p>The 2011 team season of the PaloBots is starting now (July).  Club members can still &#8216;audit&#8217; meetings, but the
+meetings will be focused on the &#8216;Food Factor&#8217; challenge.  We have two teams competing this season:</p>
+
+<ul>
+<li> Team #6763: The Lightning Bolts</li>
+<li> Team #78: The Swinebots</li>
+</ul>
 
 ]]></content>
   </entry>
