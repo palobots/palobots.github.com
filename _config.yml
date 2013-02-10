@@ -4,7 +4,7 @@
 
 url: http://palobots.org
 title: PaloBots
-subtitle: Kids and robots
+subtitle:
 author: The PaloBots
 simple_search: http://google.com/search
 description: Now is the time for all great kids to come to the aid of their country
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: palobots
 disqus_show_comment_count: false
 
 # Google Analytics
