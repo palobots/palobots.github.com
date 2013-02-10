@@ -1,0 +1,653 @@
+---
+comments: true
+date: 2010-03-05 15:23:37
+layout: post
+slug: norcal-league-results
+title: NorCal League Results
+wordpress_id: 13
+categories:
+- FLL
+- NorCal
+tags:
+- FLL
+- NorCal
+---
+
+You can see the original by following the link:
+
+   * <http://www.norcalfll.org/index.php?option=com_content&view=article&id=159:2009-norcal-fll-championship-results&catid=48:2009-smart-move>
+
+But I wanted our own copy of the table:
+
+
+<!--more-->
+
+<h2><strong>Awards </strong></h2>
+<table border="1" align="center">
+<tbody>
+<tr>
+<td rowspan="3"><strong>Champion's Award</strong></td>
+<td>1st Place</td>
+<td>Legonauts (4514)</td>
+</tr>
+<tr>
+<td>2nd Place</td>
+<td>We Ate the Mat (3858)</td>
+</tr>
+<tr>
+<td>3rd Place</td>
+<td>Antipodes (6363)</td>
+</tr>
+<tr>
+<td rowspan="3"><strong>Robot Performance</strong></td>
+<td>1st Place</td>
+<td>Los Altos Geek Squad (2229) - 400</td>
+</tr>
+<tr>
+<td>2nd Place</td>
+<td>Antipodes (6363) - 400</td>
+</tr>
+<tr>
+<td>3rd Place</td>
+<td>We At the Mat (3858) - 400</td>
+</tr>
+<tr>
+<td rowspan="3"><strong>Smart Move Project</strong></td>
+<td>1st Place</td>
+<td>The Pranksterbots (5969)</td>
+</tr>
+<tr>
+<td>2nd Place</td>
+<td>LEGO Guards (53)</td>
+</tr>
+<tr>
+<td>3rd Place</td>
+<td>Fremont Chunky Monkey (3863)</td>
+</tr>
+<tr>
+<td rowspan="3"><strong>Robot Design</strong></td>
+<td>1st Place</td>
+<td>Los Altos Geek Squad (2229)</td>
+</tr>
+<tr>
+<td>2nd Place</td>
+<td>MCubed (3994)</td>
+</tr>
+<tr>
+<td>3rd Place</td>
+<td>WarriorBots (675)</td>
+</tr>
+<tr>
+<td rowspan="3"><strong>Teamwork</strong></td>
+<td>1st Place</td>
+<td>Robot Chicken Gator Flys of Papayaland (3731)</td>
+</tr>
+<tr>
+<td>2nd Place</td>
+<td>Checkmate (6085)</td>
+</tr>
+<tr>
+<td>3rd Place</td>
+<td>Eco-Extructobots (6452)</td>
+</tr>
+<tr>
+<td rowspan="2"><strong>Judges' Award</strong></td>
+<td>Rookie Team</td>
+<td>The Mysterious Skeleton Squirrels (6421)</td>
+</tr>
+<tr>
+<td>Enthusiasm</td>
+<td>Sensory Overload (6739)</td>
+</tr>
+<tr>
+<td><strong> Outstanding Volunteer
+</strong></td>
+<td colspan="2">Tiffany Strickland</td>
+</tr>
+<tr>
+<td><strong> Adult Coach/Mentor
+</strong></td>
+<td colspan="2">Liz Araujo - Mach5 (2619)</td>
+</tr>
+<tr>
+<td><strong> Youth Coach/Mentor
+</strong></td>
+<td colspan="2">Kevin Tharratt - Supernovas</td>
+</tr>
+<tr>
+<td><strong>Playing At Learning Outreach
+</strong></td>
+<td colspan="2">Josie Yu - County of San Mateo
+Zareen Kasad &amp; CNG Staff - Boys &amp; Girls Clubs of the Pennisula at Hoover School
+Mark Novelero &amp; Rachel Anicetti - Citizen Schools @ Kennedy Middle School
+Pam Keller - North Star Academy
+Sue Cortopassi - Redwood City Elementary School District</td>
+</tr>
+</tbody>
+</table>
+<h2><strong> Kids' Choice Awards </strong></h2>
+<table border="1" align="center">
+<tbody>
+<tr>
+<td><strong> Favorite Robot Design
+</strong></td>
+<td>2229</td>
+<td>Los Altos Geek Squad</td>
+</tr>
+<tr>
+<td><strong> Most Elaborate or Complicated Design </strong></td>
+<td>2229</td>
+<td>Los Altos Geek Squad</td>
+</tr>
+<tr>
+<td><strong> Favorite Robot Attachment </strong></td>
+<td>2229</td>
+<td>Los Altos Geek Squad</td>
+</tr>
+<tr>
+<td><strong> Most Practical Project Solution
+</strong></td>
+<td>6161</td>
+<td>Da 1337 Key</td>
+</tr>
+<tr>
+<td><strong> Most Fantastical Project Solution
+</strong></td>
+<td>53</td>
+<td>LEGO Guards</td>
+</tr>
+<tr>
+<td><strong> Favorite Team Poster
+</strong></td>
+<td>4693</td>
+<td>Sapphire Force</td>
+</tr>
+<tr>
+<td><strong> Favorite Team Chant/Song/Cheer
+</strong></td>
+<td>1592</td>
+<td>Folsom Gatorobytes</td>
+</tr>
+<tr>
+<td><strong> Favorite Team Name
+</strong></td>
+<td>3731</td>
+<td>Robot Chicken Gator Flys of Papayaland</td>
+</tr>
+<tr>
+<td><strong> Favorite Pit Area Design </strong></td>
+<td>1592</td>
+<td>Folsom Gatorobytes</td>
+</tr>
+<tr>
+<td><strong> Favorite Team Costume
+</strong></td>
+<td>4131</td>
+<td>Bananabots</td>
+</tr>
+<tr>
+<td><strong> Best Team Swap
+</strong></td>
+<td>1662</td>
+<td>Robovolts</td>
+</tr>
+<tr>
+<td><strong> Favorite Team Picture
+</strong></td>
+<td>1662</td>
+<td>Robovolts</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Robot Performance Rounds</strong></h2>
+<table border="1" align="center">
+<tbody>
+<tr>
+<td align="center" height="17"><strong>Rank</strong></td>
+<td align="center"><strong>Number</strong></td>
+<td align="center"><strong>Team Name </strong></td>
+<td align="center"><strong>Round 1
+</strong></td>
+<td align="center"><strong>Round </strong><strong>2</strong></td>
+<td align="center"><strong>Round </strong><strong>3</strong></td>
+<td align="center"><strong>Round </strong><strong>4</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">1</td>
+<td align="center">2229</td>
+<td align="center">Los Altos Geek Squad</td>
+<td align="center">330</td>
+<td align="center">330</td>
+<td align="center"><strong> 400
+</strong></td>
+<td align="center"><strong> 400
+</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">2</td>
+<td align="center">6363</td>
+<td align="center">Antipodes</td>
+<td align="center">370</td>
+<td align="center"><strong>400</strong></td>
+<td align="center">360</td>
+<td align="center">360</td>
+</tr>
+<tr>
+<td align="center" height="17">3</td>
+<td align="center">3858</td>
+<td align="center">We Ate the Mat</td>
+<td align="center">250</td>
+<td align="center">315</td>
+<td align="center">335</td>
+<td align="center"><strong>400</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">4</td>
+<td align="center">3863</td>
+<td align="center">Fremont Chunky Monkeys</td>
+<td align="center">365</td>
+<td align="center">365</td>
+<td align="center"><strong>390</strong></td>
+<td align="center">365</td>
+</tr>
+<tr>
+<td align="center" height="17">5</td>
+<td align="center">3331</td>
+<td align="center">Short Circuit</td>
+<td align="center">310</td>
+<td align="center"><strong>390</strong></td>
+<td align="center">335</td>
+<td align="center">360</td>
+</tr>
+<tr>
+<td align="center" height="17">6</td>
+<td align="center">7579</td>
+<td align="center">Xbots</td>
+<td align="center">360</td>
+<td align="center"><strong>380</strong></td>
+<td align="center">360</td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center" height="17">7</td>
+<td align="center">7649</td>
+<td align="center">WizBotz</td>
+<td align="center">300</td>
+<td align="center">345</td>
+<td align="center">300</td>
+<td align="center"><strong>380</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">8</td>
+<td align="center">4514</td>
+<td align="center">Legonauts</td>
+<td align="center">345</td>
+<td align="center"><strong>380</strong></td>
+<td align="center">290</td>
+<td align="center">290</td>
+</tr>
+<tr>
+<td align="center" height="17">9</td>
+<td align="center">4131</td>
+<td align="center">BananaBots</td>
+<td align="center">340</td>
+<td align="center">330</td>
+<td align="center"><strong>370</strong></td>
+<td align="center">280</td>
+</tr>
+<tr>
+<td align="center" height="17">10</td>
+<td align="center">6365</td>
+<td align="center">Robot Chickens</td>
+<td align="center">215</td>
+<td align="center">235</td>
+<td align="center">260</td>
+<td align="center"><strong>370</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">11</td>
+<td align="center">5969</td>
+<td align="center">The Pranksterbots</td>
+<td align="center">280</td>
+<td align="center">350</td>
+<td align="center"><strong>360</strong></td>
+<td align="center">215</td>
+</tr>
+<tr>
+<td align="center" height="17">12</td>
+<td align="center">7201</td>
+<td align="center">TeknoBotz</td>
+<td align="center">265</td>
+<td align="center">310</td>
+<td align="center"><strong>355</strong></td>
+<td align="center">275</td>
+</tr>
+<tr>
+<td align="center" height="17">13</td>
+<td align="center">2619</td>
+<td align="center">Mach5</td>
+<td align="center">170</td>
+<td align="center">215</td>
+<td align="center"><strong>355</strong></td>
+<td align="center">310</td>
+</tr>
+<tr>
+<td align="center" height="17">14</td>
+<td align="center">6452</td>
+<td align="center">Eco-Extructobots</td>
+<td align="center">275</td>
+<td align="center">305</td>
+<td align="center">255</td>
+<td align="center"><strong>350</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">15</td>
+<td align="center">4594</td>
+<td align="center">Claws</td>
+<td align="center">290</td>
+<td align="center"><strong>350</strong></td>
+<td align="center">245</td>
+<td align="center">225</td>
+</tr>
+<tr>
+<td align="center" height="17">16</td>
+<td align="center">6421</td>
+<td align="center">Mysterious Skeleton Squirrels</td>
+<td align="center">275</td>
+<td align="center"><strong>340</strong></td>
+<td align="center">340</td>
+<td align="center">320</td>
+</tr>
+<tr>
+<td align="center" height="17">17</td>
+<td align="center">7542</td>
+<td align="center">Robopirates</td>
+<td align="center">205</td>
+<td align="center">285</td>
+<td align="center"><strong>340</strong></td>
+<td align="center">330</td>
+</tr>
+<tr>
+<td align="center" height="17">18</td>
+<td align="center">6739</td>
+<td align="center">Sensory Overload</td>
+<td align="center">285</td>
+<td align="center"><strong>340</strong></td>
+<td align="center">195</td>
+<td align="center">310</td>
+</tr>
+<tr>
+<td align="center" height="17">19</td>
+<td align="center">3042</td>
+<td align="center">Invent-A-Bot</td>
+<td align="center">170</td>
+<td align="center">150</td>
+<td align="center">235</td>
+<td align="center"><strong>340</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">20</td>
+<td align="center">53</td>
+<td align="center">Lego Guards</td>
+<td align="center">295</td>
+<td align="center"><strong>330</strong></td>
+<td align="center">330</td>
+<td align="center">310</td>
+</tr>
+<tr>
+<td align="center" height="17">21</td>
+<td align="center">6882</td>
+<td align="center">4EverGreen</td>
+<td align="center">320</td>
+<td align="center"><strong>330</strong></td>
+<td align="center">155</td>
+<td align="center">280</td>
+</tr>
+<tr>
+<td align="center" height="17">22</td>
+<td align="center">1592</td>
+<td align="center">Folsom Gatorobytes</td>
+<td align="center">235</td>
+<td align="center"><strong>330</strong></td>
+<td align="center">310</td>
+<td align="center">210</td>
+</tr>
+<tr>
+<td align="center" height="17">23</td>
+<td align="center">6450</td>
+<td align="center">Electric Eagles</td>
+<td align="center">285</td>
+<td align="center">270</td>
+<td align="center">310</td>
+<td align="center"><strong>325</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">24</td>
+<td align="center">6085</td>
+<td align="center">Checkmate</td>
+<td align="center">240</td>
+<td align="center"><strong>325</strong></td>
+<td align="center">95</td>
+<td align="center">265</td>
+</tr>
+<tr>
+<td align="center" height="17">25</td>
+<td align="center">675</td>
+<td align="center">WarriorBots</td>
+<td align="center">305</td>
+<td align="center">260</td>
+<td align="center"><strong>320</strong></td>
+<td align="center">300</td>
+</tr>
+<tr>
+<td align="center" height="17">26</td>
+<td align="center">4081</td>
+<td align="center">SAP Flaming Pop Tarts of Doom</td>
+<td align="center">215</td>
+<td align="center">265</td>
+<td align="center">285</td>
+<td align="center"><strong>315</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">27</td>
+<td align="center">3994</td>
+<td align="center">M Cubed</td>
+<td align="center">295</td>
+<td align="center">285</td>
+<td align="center"><strong>310</strong></td>
+<td align="center">170</td>
+</tr>
+<tr>
+<td align="center" height="17">28</td>
+<td align="center">5213</td>
+<td align="center">Tech Transporters</td>
+<td align="center">85</td>
+<td align="center">165</td>
+<td align="center">95</td>
+<td align="center"><strong>305</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">29</td>
+<td align="center">5915</td>
+<td align="center">Folsom Brainstormers</td>
+<td align="center">225</td>
+<td align="center"><strong>300</strong></td>
+<td align="center">235</td>
+<td align="center">265</td>
+</tr>
+<tr>
+<td align="center" height="17">30</td>
+<td align="center">5945</td>
+<td align="center">Lego Rebellions</td>
+<td align="center">265</td>
+<td align="center">230</td>
+<td align="center"><strong>295</strong></td>
+<td align="center">275</td>
+</tr>
+<tr>
+<td align="center" height="17">31</td>
+<td align="center">2429</td>
+<td align="center">BrickMasters</td>
+<td align="center">265</td>
+<td align="center"><strong>290</strong></td>
+<td align="center">240</td>
+<td align="center">235</td>
+</tr>
+<tr>
+<td align="center" height="17">32</td>
+<td align="center">4009</td>
+<td align="center">The Thunderbots</td>
+<td align="center">105</td>
+<td align="center">215</td>
+<td align="center"><strong>290</strong></td>
+<td align="center">225</td>
+</tr>
+<tr>
+<td align="center" height="17">33</td>
+<td align="center">5855</td>
+<td align="center">SmartNavigators</td>
+<td align="center">195</td>
+<td align="center">190</td>
+<td align="center"><strong>280</strong></td>
+<td align="center">240</td>
+</tr>
+<tr>
+<td align="center" height="17">34</td>
+<td align="center">3568</td>
+<td align="center">Untitled-1</td>
+<td align="center">110</td>
+<td align="center">220</td>
+<td align="center">145</td>
+<td align="center"><strong>280</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">35</td>
+<td align="center">3402</td>
+<td align="center">Robochicks</td>
+<td align="center">150</td>
+<td align="center"><strong>280</strong></td>
+<td align="center">155</td>
+<td align="center">180</td>
+</tr>
+<tr>
+<td align="center" height="17">36</td>
+<td align="center">6821</td>
+<td align="center">Stormgears</td>
+<td align="center">135</td>
+<td align="center">125</td>
+<td align="center"><strong>280</strong></td>
+<td align="center">135</td>
+</tr>
+<tr>
+<td align="center" height="17">37</td>
+<td align="center">6161</td>
+<td align="center">Da 1337 Key</td>
+<td align="center">195</td>
+<td align="center"><strong>260</strong></td>
+<td align="center">260</td>
+<td align="center">185</td>
+</tr>
+<tr>
+<td align="center" height="17">38</td>
+<td align="center">3731</td>
+<td align="center">Robo Chicken Gator Flys of Papayaland</td>
+<td align="center"><strong>255</strong></td>
+<td align="center">55</td>
+<td align="center">85</td>
+<td align="center">85</td>
+</tr>
+<tr>
+<td align="center" height="17">39</td>
+<td align="center">6167</td>
+<td align="center">iHybrid.rbt</td>
+<td align="center">110</td>
+<td align="center">225</td>
+<td align="center"><strong>240</strong></td>
+<td align="center">235</td>
+</tr>
+<tr>
+<td align="center" height="17">40</td>
+<td align="center">3562</td>
+<td align="center">Supernovas</td>
+<td align="center">65</td>
+<td align="center">215</td>
+<td align="center">105</td>
+<td align="center"><strong>240</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">41</td>
+<td align="center">4693</td>
+<td align="center">SAPPHIRE FORCE</td>
+<td align="center">190</td>
+<td align="center"><strong>235</strong></td>
+<td align="center">220</td>
+<td align="center">85</td>
+</tr>
+<tr>
+<td align="center" height="17">42</td>
+<td align="center">5932</td>
+<td align="center">Whatchamacallits</td>
+<td align="center">35</td>
+<td align="center"><strong>235</strong></td>
+<td align="center">190</td>
+<td align="center">185</td>
+</tr>
+<tr>
+<td align="center" height="17">43</td>
+<td align="center">1336</td>
+<td align="center">SCIBOTS</td>
+<td align="center">145</td>
+<td align="center">190</td>
+<td align="center">215</td>
+<td align="center"><strong>225</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">44</td>
+<td align="center">1662</td>
+<td align="center">RoboVolts</td>
+<td align="center">110</td>
+<td align="center">65</td>
+<td align="center">55</td>
+<td align="center"><strong>225</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">45</td>
+<td align="center">4682</td>
+<td align="center">SAP Phantom Riders</td>
+<td align="center">135</td>
+<td align="center"><strong>215</strong></td>
+<td align="center">215</td>
+<td align="center">190</td>
+</tr>
+<tr>
+<td align="center" height="17">46</td>
+<td align="center">5805</td>
+<td align="center">Common Sense</td>
+<td align="center">110</td>
+<td align="center">105</td>
+<td align="center"><strong>160</strong></td>
+<td align="center">145</td>
+</tr>
+<tr>
+<td align="center" height="17">47</td>
+<td align="center">5210</td>
+<td align="center">Techno Warriors</td>
+<td align="center">125</td>
+<td align="center">95</td>
+<td align="center">140</td>
+<td align="center"><strong>150</strong></td>
+</tr>
+<tr>
+<td align="center" height="17">48</td>
+<td align="center">618</td>
+<td align="center">Pyromaniac Technobots</td>
+<td align="center"><strong>115</strong></td>
+<td align="center">85</td>
+<td align="center">95</td>
+<td align="center">95</td>
+</tr>
+</tbody>
+</table>
+
+
+
