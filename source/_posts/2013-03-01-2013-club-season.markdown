@@ -6,7 +6,7 @@ comments: true
 categories: FLL Club
 ---
 
-The 2013 club season of the PaloBots will be starting in March.  Please contact Mark or Rebecca or Maya for
+The 2013 club season of the PaloBots will be starting in March.  Please contact Mark, Rebecca, or Maya for
 more information.
 
 <!-- more -->
