@@ -6,7 +6,7 @@ comments: true
 categories: FLL Octobots
 ---
 
-The Octobots (Team #8) competed in the 2012 NorCalFLL Peninsula Regional championships.
+The totally awesome Octobots (Team #8) competed in the 2012 NorCalFLL Peninsula Regional championships.
 
 <!-- more -->
 
