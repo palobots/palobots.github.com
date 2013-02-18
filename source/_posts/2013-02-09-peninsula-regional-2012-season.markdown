@@ -26,7 +26,3 @@ In the Project Judging Room, we presented our project - Robotic Shelves. Our ide
 
 <img src="/images/peninsula-regional-2012-season/RegionalPrep_4.jpg" />
 #### A cool wind-up robot that bowls! ^ _ ^
-
-#### A picture of our team
-
-#### This is our core!!!
