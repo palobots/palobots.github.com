@@ -13,7 +13,6 @@ We, the totally awesome Octobots, (Team #8) competed in the 2012 NorCalFLL Penin
 ### Robot Design
 
 In the Robot Design Judging Room, we talked about how our robot is innovative, creative, and useful. We used a simple core that could be detached from one chassis to another chassis easily and quickly, so it was possible to swap from a sturdy "base" robot to an agile, moving robot within seconds.
-(pictures)
 
 <!-- more -->
 
@@ -27,3 +26,7 @@ In the Project Judging Room, we presented our project - Robotic Shelves. Our ide
 
 <img src="/images/peninsula-regional-2012-season/RegionalPrep_4.jpg" />
 #### A cool wind-up robot that bowls! ^ _ ^
+
+#### A picture of our team
+
+#### This is our core!!!
