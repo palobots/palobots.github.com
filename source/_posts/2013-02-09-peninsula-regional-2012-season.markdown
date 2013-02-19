@@ -12,7 +12,8 @@ We, the totally awesome Octobots, (Team #8) competed in the 2012 NorCalFLL Penin
 ## Our Day
 ### Robot Design
 
-In the Robot Design Judging Room, we talked about how our robot is innovative, creative, and useful. We used a simple core that could be detached from one chassis to another chassis easily and quickly, so it was possible to swap from a sturdy "base" robot to an agile, moving robot within seconds.
+In the Robot Design Judging Room, we talked about how our robot is innovative, creative, and useful. We used a simple core that could be detached from one chassis to another chassis easily and quickly, so it was possible to swap from a sturdy "base" robot to an agile, moving robot within seconds. One of our chassis was a robot that was relatively thin, had a cage contraption on the front, and could do both the chair and the red quilt missions. Another was a base that launched a wind-up robot that could go and do the bowling mission. Yet another was also a base, with an arm that could lift the flag of the big TV in seconds.
+    Some pictures of these chassis are below.
 
 <!-- more -->
 
@@ -26,3 +27,9 @@ In the Project Judging Room, we presented our project - Robotic Shelves. Our ide
 
 <img src="/images/peninsula-regional-2012-season/RegionalPrep_4.jpg" />
 #### A cool wind-up robot that bowls! ^ _ ^
+
+<img src="/images/peninsula-regional-2012-season/RegionalPrep_5.jpg" />
+#### A picture of our main core that moved from chassis to chassis
+
+<img src="/images/peninsula-regional-2012-season/RegionalPrep_3.jpg" />
+#### The chassis that could do both the chair mission and the red quilts
