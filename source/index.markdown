@@ -25,5 +25,5 @@ Additional PaloBots information is at the following wikis:
 
 Information about FLL is at the following link:
 
-   *
+   * [About FLL](/aboutfll)
 
