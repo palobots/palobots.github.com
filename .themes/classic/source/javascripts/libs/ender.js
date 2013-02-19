@@ -2596,7 +2596,7 @@
       }
   
     return bonzo
-  }); // the only line we care about using a semi-colon. placed here for concatenation tools
+  }); // the only line we care aboutfll using a semi-colon. placed here for concatenation tools
   
 
   provide("bonzo", module.exports);

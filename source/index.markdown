@@ -23,3 +23,7 @@ Additional PaloBots information is at the following wikis:
    * [http://palobots.pbworks.com/](http://palobots.pbworks.com)
    * [http://fller.pbworks.com/](http://fller.pbworks.com)
 
+Information about FLL is at the following link:
+
+   *
+
