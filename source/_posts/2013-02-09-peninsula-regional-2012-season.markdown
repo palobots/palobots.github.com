@@ -29,7 +29,7 @@ In the Project Judging Room, we presented our project - Robotic Shelves. Our ide
 #### A cool wind-up robot that bowls! ^ _ ^
 
 <img src="/images/peninsula-regional-2012-season/RegionalPrep_5.jpg" />
-#### A picture of our main core that moved from chassis to chassis
+#### A picture of our main core that moves from chassis to chassis
 
 <img src="/images/peninsula-regional-2012-season/RegionalPrep_3.jpg" />
-#### The chassis that could do both the chair mission and the red quilts
+#### The chassis that can do both the chair mission and the red quilts
