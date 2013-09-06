@@ -1,17 +1,22 @@
 ---
 layout: post
-title: "2012 PaloBots Team Season"
-date: 2012-07-01 18:00
+title: "2013 PaloBots Team Season"
+date: 2013-09-06 18:00
 comments: true
 categories: FLL Team
 ---
 
-The 2012 team season of the PaloBots is starting now (July).  The
-meetings will be focused on the 'Senior Solutions' challenge.  So far we have one team competing this season:
+The 2013 team season of the PaloBots started a couple weeks ago with the release of the Nature's Fury challenge (see
+<http://www.firstlegoleague.org/challenge/2013naturesfury> ).  We have built the Field Set:
 
-   * Team #8: The OctoBots
+<img src="/images/2013-team-season/IMG_2330_w1536.jpg" />
 
+and have two teams working on the challenge:
 
+   * Team #7: Samurai, Deadly Kids, Never Say Never, ...
+   * Team #159: Hurricanes, ...
+
+Busy, busy, busy...
 
 
 
