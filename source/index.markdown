@@ -11,8 +11,10 @@ PaloBots is a club that helps kids learn about robotics, programming, technology
 
 PaloBots is meant to be "Serious Fun" -- kids should be having fun while they are seriously focused on learning a wealth of new things.
 
-PaloBots has both a club and a team period.  During the team period we have run four teams over the last three years:
+PaloBots has both a club and a team period.  During the team period we have run six teams over the last four years:
 
+   * Team #7: Charlie's Angels (2013 season)
+   * Team #159: The Hurricanes (2013 season)
    * Team #8: The Octobots (2012 season)
    * Team #78: The Swinebots (2011 season)
    * Team #6763: The Lightning Bolts (2011 season)
