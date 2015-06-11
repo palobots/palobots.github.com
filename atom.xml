@@ -4,7 +4,7 @@
   <title><![CDATA[PaloBots]]></title>
   <link href="http://palobots.org/atom.xml" rel="self"/>
   <link href="http://palobots.org/"/>
-  <updated>2013-02-10T19:34:48-08:00</updated>
+  <updated>2015-06-11T08:32:09-07:00</updated>
   <id>http://palobots.org/</id>
   <author>
     <name><![CDATA[The PaloBots]]></name>
@@ -14,11 +14,80 @@
 
   
   <entry>
+    <title type="html"><![CDATA[2013 PaloBots Team Season]]></title>
+    <link href="http://palobots.org/blog/2013/09/06/2013-team-season/"/>
+    <updated>2013-09-06T18:00:00-07:00</updated>
+    <id>http://palobots.org/blog/2013/09/06/2013-team-season</id>
+    <content type="html"><![CDATA[<p>The 2013 team season of the PaloBots started a couple weeks ago with the release of the Nature&#8217;s Fury challenge (see
+<a href="http://www.firstlegoleague.org/challenge/2013naturesfury">http://www.firstlegoleague.org/challenge/2013naturesfury</a> ).  We have built the Field Set:</p>
+
+<p><img src="http://palobots.org/images/2013-team-season/IMG_2330_w1536.jpg" /></p>
+
+<p>and have two teams working on the challenge:</p>
+
+<ul>
+<li> Team #7: Samurai, Deadly Kids, Never Say Never, &#8230;</li>
+<li> Team #159: Hurricanes, &#8230;</li>
+</ul>
+
+
+<p>Busy, busy, busy&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Four Teams in Three Years]]></title>
+    <link href="http://palobots.org/blog/2013/09/05/four-teams-in-three-years/"/>
+    <updated>2013-09-05T18:00:00-07:00</updated>
+    <id>http://palobots.org/blog/2013/09/05/four-teams-in-three-years</id>
+    <content type="html"><![CDATA[<p>This is the fourth year of the PaloBots club, and with it two new teams launch to beat Nature&#8217;s Fury.  The new teams will only have two
+kids returning from any of the previous years.  We do not show publicly much about the kids during the seasons, but with four teams
+gone by, it seems like at least a few pictures are in order now.</p>
+
+<p>The four teams over the last three years are:</p>
+
+<ul>
+<li> #336 &#8211; TimeBots &#8211; 2010</li>
+<li> #6763 &#8211; Lightning Bolts &#8211; 2011</li>
+<li> #78 &#8211; SwineBots &#8211; 2011</li>
+<li> #8 &#8211; OctoBots &#8211; 2012</li>
+</ul>
+
+
+<p>And some pictures of them are below.  Hope they all had a great time and learned a lot.</p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/IMG_9325.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/IMG_9406_2_5_2.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/IMG_7685_FieldSet_v2_w2456.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/203-Tournament_w1528.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/205-Tournament_w1528.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/IMG_7865_3.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/IMG_0777.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/IMG_0795.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/Ramp-02_page.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/Ramp-01.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/Ramp-44.jpg" /></p>
+
+<p><img src="http://palobots.org/images/four-teams-in-three-years/Ramp-66.jpg" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[2013 PaloBots Club Season]]></title>
     <link href="http://palobots.org/blog/2013/03/01/2013-club-season/"/>
     <updated>2013-03-01T18:00:00-08:00</updated>
     <id>http://palobots.org/blog/2013/03/01/2013-club-season</id>
-    <content type="html"><![CDATA[<p>The 2013 club season of the PaloBots will be starting in March.  Please contact Mark or Rebecca for
+    <content type="html"><![CDATA[<p>The 2013 club season of the PaloBots will be starting in March.  Please contact Mark, Rebecca, or Maya for
 more information.</p>
 
 <!-- more -->
@@ -33,12 +102,39 @@ more information.</p>
     <link href="http://palobots.org/blog/2013/02/09/peninsula-regional-2012-season/"/>
     <updated>2013-02-09T18:00:00-08:00</updated>
     <id>http://palobots.org/blog/2013/02/09/peninsula-regional-2012-season</id>
-    <content type="html"><![CDATA[<p>The Octobots (Team #8) competed in the 2012 NorCalFLL Peninsula Regional championships.</p>
+    <content type="html"><![CDATA[<p>We, the totally awesome Octobots, (Team #8) competed in the 2012 NorCalFLL Peninsula Regional championships. During our day, we went from remarking upon our Robot Design, to discussing our Core Values (teamwork), to presenting our project.</p>
+
+<h2>Our Day</h2>
+
+<h3>Robot Design</h3>
+
+<p>In the Robot Design Judging Room, we talked about how our robot is innovative, creative, and useful. We used a simple core that could be detached from one chassis to another chassis easily and quickly, so it was possible to swap from a sturdy &#8220;base&#8221; robot to an agile, moving robot within seconds. One of our chassis was a robot that was relatively thin, had a cage contraption on the front, and could do both the chair and the red quilt missions. Another was a base that launched a wind-up robot that could go and do the bowling mission. Yet another was also a base, with an arm that could lift the flag of the big TV in seconds.</p>
+
+<pre><code>Some pictures of these chassis are below.
+</code></pre>
 
 <!-- more -->
 
 
+<h3>Core Values</h3>
 
+<p>In the Core Values Judging Room, we discussed how our team worked together smoothly and productively. We then had an exercise where we chose one out of three upside down cards and then acted the word out, like in the game Charades. The Octobots&#8217; word was &#8220;Hearing Aids&#8221;, and we had even more fun acting the word out.</p>
+
+<h3>Project</h3>
+
+<p>In the Project Judging Room, we presented our project - Robotic Shelves. Our idea of Robotic Shelves is to have a robot that moves up and down two beams, picks up a shelf, and then brings the shelf down to a reachable level. The shelves are labeled, and the senior picks which shelf they want by a numbered or lettered keypad.</p>
+
+<p><img src="http://palobots.org/images/peninsula-regional-2012-season/RegionalPrep_4.jpg" /></p>
+
+<h4>A cool wind-up robot that bowls! ^ _ ^</h4>
+
+<p><img src="http://palobots.org/images/peninsula-regional-2012-season/RegionalPrep_5.jpg" /></p>
+
+<h4>A picture of our main core that moves from chassis to chassis</h4>
+
+<p><img src="http://palobots.org/images/peninsula-regional-2012-season/RegionalPrep_3.jpg" /></p>
+
+<h4>The chassis that can do both the chair mission and the red quilts</h4>
 ]]></content>
   </entry>
   
